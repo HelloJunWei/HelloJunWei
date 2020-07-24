@@ -1,4 +1,4 @@
-### Hi there, I am Neil
+### 😄 Hi there, I am Neil
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HelloJunWei&show_icons=true&icon_color=CC3366&text_color=24292e&bg_color=ffffff&hide_title=true" />
