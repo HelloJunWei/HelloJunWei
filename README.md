@@ -1,7 +1,9 @@
 ### 😄 Hi there, I am Neil
 
+I major in computer science, and I'm proficient in vue, webpack, nodejs, flutter and MySQL. I have been a software engineer for almost 6 years and have contributed to open source project several times. Now my title is full frontend engineer. I have built a CRM system by vue, to arrange, and optimize all customer interactions. also refactored legacy code base to optimize service performance. Finally I have app development experience for a year.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HelloJunWei&show_icons=true&icon_color=CC3366&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HelloJunWei&show_icons=true&icon_color=CC3366&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 <!--
 **HelloJunWei/HelloJunWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
